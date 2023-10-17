@@ -4,7 +4,6 @@ import com.cydeo.dto.TaskDTO;
 import com.cydeo.dto.UserDTO;
 import com.cydeo.enums.Status;
 import com.cydeo.service.TaskService;
-import com.cydeo.service.impl.AbstractMapService;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;
